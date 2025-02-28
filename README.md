@@ -1,5 +1,3 @@
----
-
 # **📌 Smart Notes Pro – Intelligent Notes with Side Bubble**  
 
 **Smart Notes Pro** is a **Tampermonkey** script that provides a sleek, draggable notes window with a **smart side bubble** that partially hides off-screen and fully reveals on hover.  
