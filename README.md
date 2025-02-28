@@ -4,6 +4,8 @@
 The script supports **dark mode**, **rich text editing**, **keyboard shortcuts**, **search and sort features**, **import/export** in multiple formats (**JSON, TXT, MD, HTML, PDF**), **reminders**, and a **bilingual interface** (English and Arabic).  
 
 ---
+![screenshot](./Screenshot1.png "screenshot")
+![screenshot](./Screenshot2.png "screenshot")
 
 ## **🌟 Features**  
 
